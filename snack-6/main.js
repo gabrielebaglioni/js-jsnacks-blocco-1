@@ -6,5 +6,6 @@ if (numero % 2 == 0){
    console.log(numero);
 }
 else {
+   // numero++
    console.log(numero + 1)
 }
