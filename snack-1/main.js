@@ -3,7 +3,7 @@ const number2 = Number(prompt("inserisci un numero"));
  if (number1 > number2){
    console.log(number1);
  }
-
- else{
+ else {
    console.log(number2);
  }
+ 
