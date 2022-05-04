@@ -21,4 +21,4 @@ let differenza = 0
 console.log(array1);
 console.log(array2);
  //se la differenza è maggiore di zero allora creao un ciclo for per sommare gli elementi
- //inserire il numero della differenza ag
+ //inserire il numero della differenza aggiungere ad un array
